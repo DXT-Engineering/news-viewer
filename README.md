@@ -21,4 +21,4 @@ Create a news list view
 ## Data mappings
 <img src="https://github.com/DXT-Engineering/news-viewer/blob/main/a2722139-f011-4c5a-8c77-a07c846c72d9.png?raw=true"/>
 
-**Note:** Please keep the from date under 30 days from today’s date.. so please review the URL before sharing with the candidate
+**Note:** For the news API, please keep the from date under 30 days from today’s date.
