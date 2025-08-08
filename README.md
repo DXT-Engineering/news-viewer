@@ -9,7 +9,7 @@ Create a news list view
 
 # Tasks
 - Create the Desktop and Mobile views below and make them responsive.
-- Load this data dynamically from this API: https://newsapi.org/v2/everything?q=four%20seasons&from=2025-03-24&sortBy=publishedAt&apiKey=8e3c83225c9e4d1daa12a490ccad7780&pageSize=4 (For Data mappings, refer to the image below)
+- Load this data dynamically from this API: https://newsapi.org/v2/everything?q=four%20seasons&from=2025-07-24&sortBy=publishedAt&apiKey=8e3c83225c9e4d1daa12a490ccad7780&pageSize=4 (For Data mappings, refer to the image below)
 - Zip and send response to interviewer
   
 ## Desktop View
